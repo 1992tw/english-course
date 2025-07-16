@@ -4,12 +4,138 @@
   "title": "Speaking and Writing Skills",
   "status": "pending",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Speaking and Writing Practice",
+    "objective": "Improve fluency in speaking and writing through targeted activities.",
+    "expectedCapabilities": [
+      "Deliver a speech with clear pronunciation",
+      "Write a concise essay"
+    ],
+    "submissionInstructions": "Submit a recording of your speech and the written essay through the course platform.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Speech Delivery Preparation",
+        "description": "Prepare talking points for a short speech.",
+        "codeExample": "N/A",
+        "_id": "68781691c0fdbfd3315b3461"
+      },
+      {
+        "taskNumber": 2,
+        "title": "Essay Writing",
+        "description": "Draft an essay focusing on structure and vocabulary.",
+        "codeExample": "N/A",
+        "_id": "68781691c0fdbfd3315b3462"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Deliver a Short Speech",
+            "description": "Prepare and deliver a 3-minute speech on a topic of your choice to a friend or tutor.",
+            "codeExample": "N/A",
+            "_id": "68781691c0fdbfd3315b345e"
+          }
+        ],
+        "_id": "68781691c0fdbfd3315b345d"
+      },
+      {
+        "partNumber": 2,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Write an Essay",
+            "description": "Write a 250-word essay on 'The Importance of Learning a Second Language.'",
+            "codeExample": "N/A",
+            "_id": "68781691c0fdbfd3315b3460"
+          }
+        ],
+        "_id": "68781691c0fdbfd3315b345f"
+      }
+    ],
+    "checklist": [
+      "Speech Prepared and Recorded",
+      "Essay Drafted and Edited",
+      "Materials Submitted"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "Why is practicing speeches effective for improving speaking skills?",
+        "options": [
+          "Because it boosts vocabulary",
+          "Because it enhances listening skills",
+          "Because it improves fluency and confidence"
+        ],
+        "answer": "Because it improves fluency and confidence",
+        "_id": "68781691c0fdbfd3315b345b"
+      },
+      {
+        "question": "What is a good approach to start an essay?",
+        "options": [
+          "Immediately provide examples",
+          "Begin with a clear introduction",
+          "Use heavy jargon"
+        ],
+        "answer": "Begin with a clear introduction",
+        "_id": "68781691c0fdbfd3315b345c"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Enhancing Speaking Skills",
+      "content": "In order to improve speaking skills in English, one must engage in various activities that provide the opportunity to practice and refine pronunciation, intonation, and fluency. Some effective methods include:\n- **Regular Conversation Practice**: Engage in daily conversations with native speakers or fellow learners to improve fluency and confidence.\n- **Pronunciation Drills**: Focus on difficult sounds and practice them in isolation before incorporating them into words and sentences.\n- **Using Intonation Patterns**: Learn how intonation affects meaning and practice using different patterns.\n- **Public Speaking**: Participate in small public speaking activities to improve your confidence and ability to express yourself clearly.",
+      "videoUrl": "http://video.com/speakingSkills",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://www.english.com/SpeakingPractices"
+      ],
+      "quizzes": [
+        {
+          "question": "Which of the following activities helps improve English speaking skills?",
+          "options": [
+            "Listening to music",
+            "Watching movies without subtitles",
+            "Regular conversations with native speakers"
+          ],
+          "answer": "Regular conversations with native speakers",
+          "_id": "68781691c0fdbfd3315b3458"
+        }
+      ],
+      "_id": "68781691c0fdbfd3315b3457"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Developing Writing Skills",
+      "content": "Writing is a key component of language proficiency. Enhancing writing skills involves understanding the structure of different text types and practicing regularly. Key strategies include:\n- **Understanding Sentence Structure**: Practice constructing simple to complex sentences with correct grammar and punctuation.\n- **Expanding Vocabulary**: Incorporate new vocabulary into your writing to express ideas more precisely.\n- **Mastering Paragraph Structure**: Write paragraphs with a clear topic, supporting details, and conclusion.\n- **Engaging in Different Writing Styles**: Practice writing various text types such as essays, business letters, and creative stories.",
+      "videoUrl": "http://video.com/writingSkills",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://writingcenter.unc.edu/tips-and-tools/"
+      ],
+      "quizzes": [
+        {
+          "question": "What are key elements of a well-structured paragraph?",
+          "options": [
+            "Introduction, body, and conclusion",
+            "Question, example, solution",
+            "Title, description, result"
+          ],
+          "answer": "Introduction, body, and conclusion",
+          "_id": "68781691c0fdbfd3315b345a"
+        }
+      ],
+      "_id": "68781691c0fdbfd3315b3459"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/advancedSpeakingANDWriting"
+  ],
+  "references": [
+    "https://owl.purdue.edu/owl/purdue_owl.html",
+    "https://www.britishcouncil.org/english/skills/speaking"
+  ]
 }

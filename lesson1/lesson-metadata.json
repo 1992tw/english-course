@@ -2,14 +2,147 @@
   "id": "687804a6492e7e3af8a04dc7",
   "lessonNumber": 1,
   "title": "Introduction to English",
-  "status": "pending",
+  "status": "complete",
   "assignment": {
-    "title": "Assignment will be generated",
-    "objective": "Objective will be provided when lesson is generated",
-    "expectedCapabilities": [],
-    "instructions": [],
-    "tasks": [],
-    "submissionInstructions": "Submission instructions will be provided when lesson is generated"
+    "title": "Basic Grammar Application",
+    "objective": "To apply basic English grammar rules in written sentences.",
+    "expectedCapabilities": [
+      "Recognize correct grammatical structures",
+      "Apply basic grammar concepts in sentences"
+    ],
+    "submissionInstructions": "Submit your sentences and corrections in a document.",
+    "tasks": [
+      {
+        "taskNumber": 1,
+        "title": "Write Sentences Using Various Tenses",
+        "description": "Compose sentences in past, present, and future tenses.",
+        "codeExample": "N/A",
+        "_id": "6878166ac0fdbfd3315b344c"
+      }
+    ],
+    "instructions": [
+      {
+        "partNumber": 1,
+        "steps": [
+          {
+            "taskNumber": 1,
+            "title": "Compose Sentences",
+            "description": "Write five sentences using different tenses. Identify the tense in use.",
+            "codeExample": "N/A",
+            "_id": "6878166ac0fdbfd3315b344a"
+          },
+          {
+            "taskNumber": 2,
+            "title": "Subject-Verb Agreement",
+            "description": "Correct the subject-verb agreement in the given sentences.",
+            "codeExample": "N/A",
+            "_id": "6878166ac0fdbfd3315b344b"
+          }
+        ],
+        "_id": "6878166ac0fdbfd3315b3449"
+      }
+    ],
+    "checklist": [
+      "Five sentences written",
+      "Correct tenses used",
+      "Subject-verb agreement corrected"
+    ],
+    "checkForUnderstanding": [
+      {
+        "question": "What tense is used in the sentence: 'She is reading'?",
+        "options": [
+          "Past",
+          "Present",
+          "Future"
+        ],
+        "answer": "Present",
+        "_id": "6878166ac0fdbfd3315b3447"
+      },
+      {
+        "question": "Which sentence demonstrates correct subject-verb agreement?",
+        "options": [
+          "The dogs runs fast.",
+          "The dog runs fast."
+        ],
+        "answer": "The dog runs fast.",
+        "_id": "6878166ac0fdbfd3315b3448"
+      }
+    ]
   },
-  "subsections": []
+  "subsections": [
+    {
+      "subsectionOrder": 1,
+      "title": "Importance of Learning English",
+      "content": "\\- English is spoken by over 1.5 billion people worldwide.\\n- It's the primary language of international communication, business, science, aviation, computers, diplomacy, and tourism.\\n- Proficiency in English can increase job opportunities and access to information.",
+      "videoUrl": "http://video.com/importanceOfEnglish",
+      "codeExamples": [],
+      "externalLinks": [
+        "https://en.wikipedia.org/wiki/English_language"
+      ],
+      "quizzes": [
+        {
+          "question": "How many people approximately speak English worldwide?",
+          "options": [
+            "500 million",
+            "1.5 billion",
+            "2 billion"
+          ],
+          "answer": "1.5 billion",
+          "_id": "6878166ac0fdbfd3315b3442"
+        }
+      ],
+      "_id": "6878166ac0fdbfd3315b3441"
+    },
+    {
+      "subsectionOrder": 2,
+      "title": "Overview of English Course Structure",
+      "content": "\\- The course covers grammar, comprehension, vocabulary, speaking, and writing.\\n- Each lesson designed to build sequentially on knowledge gained in previous lessons.\\n- Interactive activities and quizzes to reinforce learning.",
+      "videoUrl": "http://video.com/englishCourseStructure",
+      "codeExamples": [],
+      "externalLinks": [
+        "http://english-course-example.com"
+      ],
+      "quizzes": [
+        {
+          "question": "What areas does this English course focus on?",
+          "options": [
+            "Grammar and comprehension",
+            "Vocabulary",
+            "All of the above"
+          ],
+          "answer": "All of the above",
+          "_id": "6878166ac0fdbfd3315b3444"
+        }
+      ],
+      "_id": "6878166ac0fdbfd3315b3443"
+    },
+    {
+      "subsectionOrder": 3,
+      "title": "Basic Grammar Concepts",
+      "content": "\\- Grammar is the backbone of any language, providing rules and guidelines on how words are put together.\\n- Key areas include tenses, subject-verb agreement, and sentence structure.",
+      "videoUrl": "http://video.com/basicGrammarConcepts",
+      "codeExamples": [],
+      "externalLinks": [],
+      "quizzes": [
+        {
+          "question": "Which area is NOT considered a basic grammar concept?",
+          "options": [
+            "Syntax",
+            "Programming",
+            "Tenses"
+          ],
+          "answer": "Programming",
+          "_id": "6878166ac0fdbfd3315b3446"
+        }
+      ],
+      "_id": "6878166ac0fdbfd3315b3445"
+    }
+  ],
+  "supplementalVideos": [
+    "http://video.com/englishBasics"
+  ],
+  "references": [
+    "https://www.grammarly.com/blog/english-grammar/",
+    "https://www.britannica.com/topic/English-language"
+  ]
 }
